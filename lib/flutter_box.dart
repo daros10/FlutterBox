@@ -1,7 +1,4 @@
 library flutter_box;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:flutter_box/widgetbook/button/button.dart';
+

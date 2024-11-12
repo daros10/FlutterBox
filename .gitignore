@@ -21,6 +21,10 @@ output.json
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+*.dart_tool/
+.dart_tool/*
+.dart_tool/package_config.json
+.dart_tool/package_config_subset
 
 # Keystore files
 *.jks
